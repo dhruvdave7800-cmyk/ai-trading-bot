@@ -1,4 +1,4 @@
-price = 22050
+price = float(input("Enter current price: "))
 
 if price > 22000:
     print("BUY signal detected")
